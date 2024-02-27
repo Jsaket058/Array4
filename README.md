@@ -1,2 +1,2 @@
 # Array4
-Duplicate element remove via 1)Set and 2) Optimal Method
+Duplicate element remove of the sorted via 1)Set and 2) Optimal Method
